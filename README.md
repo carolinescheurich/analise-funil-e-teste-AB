@@ -63,6 +63,6 @@ As etapas consideradas no funil principal são da tela principal até o pagament
 O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
 - **Pandas** → manipulação de dados  
 - **NumPy** → operações numéricas  
-- **Matplotlib, Seaborn, Plotly** → visualizações estáticas e interativas  
-- **SciPy, StatsModels** → testes estatísticos e inferência  
+- **Matplotlib**, **Seaborn** e **Plotly** → visualizações estáticas e interativas  
+- **SciPy** e **StatsModels** → testes estatísticos e inferência  
 - **Jupyter Notebook** → ambiente de análise  
