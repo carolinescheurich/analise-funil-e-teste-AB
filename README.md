@@ -51,7 +51,7 @@ As etapas consideradas no funil principal são da tela principal até o pagament
 - Teste estatístico: `proportions_ztest` com nível de significância de 5%.  
 - Intervalos de confiança calculados com `proportion_confint`.
 
-## 📈 Principais Resultados e Insights
+## 📈 Principais Insights e Conclusões
 
 - Os eventos mais frequentes foram “MainScreenAppear”, “OffersScreenAppear” e “CartScreenAppear”.  
 - A maior perda de usuários ocorreu entre as telas de ofertas e carrinho, indicando um ponto de fricção no processo de compra.  
