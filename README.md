@@ -59,9 +59,10 @@ As etapas consideradas no funil principal são da tela principal até o pagament
 - O funil se comporta de maneira estável entre os grupos, sugerindo que a experiência visual teve impacto neutro sobre o comportamento do usuário.
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
-- **Python 3.10+**  
-- **Pandas** — manipulação de dados  
-- **NumPy** — operações numéricas  
-- **Matplotlib / Seaborn / Plotly** — visualizações estáticas e interativas  
-- **SciPy / StatsModels** — testes estatísticos e inferência  
-- **Jupyter Notebook** — ambiente de análise  
+
+O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
+- **Pandas** → manipulação de dados  
+- **NumPy** → operações numéricas  
+- **Matplotlib, Seaborn, Plotly** → visualizações estáticas e interativas  
+- **SciPy, StatsModels** → testes estatísticos e inferência  
+- **Jupyter Notebook** → ambiente de análise  
